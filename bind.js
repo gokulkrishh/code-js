@@ -25,4 +25,5 @@ var sum1 = sum(5, 5);
 console.log(sum1); //10
 
 var sum2 = sum.bind(null, 15); // Binding the context and passing X
-console.log(sum2(10)); // `sum2` return new funz() and calling it with Y
+// `sum2` return new funz() and calling it below with Y
+console.log(sum2(10)); // 25
