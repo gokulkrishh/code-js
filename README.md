@@ -1,4 +1,4 @@
-#/code code-js
+# code-js
 
 JS Concepts with explaination
 
