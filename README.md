@@ -9,3 +9,4 @@ JS Concepts with code explaination
 - [Bind Function](https://github.com/gokulkrishh/code-js/blob/master/code/bind.js)
 - [Closure](https://github.com/gokulkrishh/code-js/blob/master/code/closure.js)
 - [Hoisting](https://github.com/gokulkrishh/code-js/blob/master/code/hoisting.js)
+- [If statements execution](https://github.com/gokulkrishh/code-js/blob/master/code/if-statements-execution.js)
