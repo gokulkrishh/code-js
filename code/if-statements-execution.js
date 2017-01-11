@@ -2,6 +2,8 @@
 	# if() - if statements executes only if's statements evaluation is true.
 
 	# Truth table for if() - https://dorey.github.io/JavaScript-Equality-Table/
+
+	Tips: Always use `===` in if statements for desired results
 */
 
 // Examples
