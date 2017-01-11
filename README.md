@@ -1,6 +1,6 @@
 # code-js
 
-JS Concepts with explaination
+JS Concepts with code explaination
 
 ## Table of content
 
