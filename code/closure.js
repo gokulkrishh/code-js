@@ -1,6 +1,6 @@
 /*
-	# Closure - when a function has a inner function thats why a closure is created. In other word, inner function has access
-		to the outer function variables even after the outer function is executed. Same goes for the outer funz arguments.
+	# Closure - when a function has a inner function thats when a closure is created. In other word, the inner function has access
+		to the outer function variables even after the outer function is executed. Same goes for the outer function arguments.
 	
 	## Reference 
 	1. http://www.w3schools.com/js/js_function_closures.asp
