@@ -7,7 +7,11 @@
 // Examples
 if (true) {} // executes
 
+if ("true") {} // executes
+
 if (false) {} // does not execute
+
+if ("false") {} // executes
 
 if (1) {} // executes
 
