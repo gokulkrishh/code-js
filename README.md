@@ -13,4 +13,5 @@ JS Concepts with code explaination
 - [Has Own Property](https://github.com/gokulkrishh/code-js/blob/master/code/has-own-property.js)
 - [If Statements Executions](https://github.com/gokulkrishh/code-js/blob/master/code/if-statements-execution.js)
 - [Null & Undefined](https://github.com/gokulkrishh/code-js/blob/master/code/null-and-undefined.js)
+- [Native Methods](https://github.com/gokulkrishh/code-js/blob/master/code/native-methods.js)
 - [Scope](https://github.com/gokulkrishh/code-js/blob/master/code/scope.js)
