@@ -11,3 +11,4 @@ JS Concepts with code explaination
 - [Hoisting](https://github.com/gokulkrishh/code-js/blob/master/code/hoisting.js)
 - [Has Own Property](https://github.com/gokulkrishh/code-js/blob/master/code/has-own-property.js)
 - [If statements execution](https://github.com/gokulkrishh/code-js/blob/master/code/if-statements-execution.js)
+- [Scope](https://github.com/gokulkrishh/code-js/blob/master/code/scope.js)
