@@ -1,5 +1,5 @@
 /*
-	# Bind - creates a new function that will have `this` set to the 1st parameter passed to `.bind()` method.
+	# Bind - creates a new function that will have `this` set to the 1st parameter passed to `.bind()` method (will not auto executes).
 	
 	## Reference 
 	1. http://www.javascripture.com/Function#bind
