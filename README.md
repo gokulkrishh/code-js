@@ -9,6 +9,7 @@ JS Concepts with code explaination
 - [Bind Function](https://github.com/gokulkrishh/code-js/blob/master/code/bind.js)
 - [Closure](https://github.com/gokulkrishh/code-js/blob/master/code/closure.js)
 - [Call & Apply](https://github.com/gokulkrishh/code-js/blob/master/code/call-and-apply.js)
+- [Event Delegation](https://github.com/gokulkrishh/code-js/blob/master/code/event-delegation.js)
 - [Hoisting](https://github.com/gokulkrishh/code-js/blob/master/code/hoisting.js)
 - [Has Own Property](https://github.com/gokulkrishh/code-js/blob/master/code/has-own-property.js)
 - [If Statements Executions](https://github.com/gokulkrishh/code-js/blob/master/code/if-statements-execution.js)
