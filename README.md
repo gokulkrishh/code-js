@@ -17,7 +17,9 @@ JS Concepts with code explaination
 - [Closure](https://github.com/gokulkrishh/code-js/blob/master/code/closure.js)
 - [Chaining](https://github.com/gokulkrishh/code-js/blob/master/code/chaining-in-javascript.js)
 - [Data Types](https://github.com/gokulkrishh/code-js/blob/master/code/data-types.js)
-- [Data Types](https://github.com/gokulkrishh/code-js/blob/master/code/difference-between-{}-and-new Object.js)
+
+- [Difference between {} and new Object()](https://github.com/gokulkrishh/code-js/blob/master/code/difference-between-%7B%7D-and-new%20Object.js)
+
 - [DOMContentLoaded vs OnLoad](https://github.com/gokulkrishh/code-js/blob/master/code/domContentLoaded-and-onLoad.js)
 - [Eval](https://github.com/gokulkrishh/code-js/blob/master/code/eval.js)
 - [Event Delegation](https://github.com/gokulkrishh/code-js/blob/master/code/event-delegation.js)
