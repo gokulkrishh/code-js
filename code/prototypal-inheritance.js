@@ -1,5 +1,5 @@
 /*
-	In javascript, most of them are objects (Even functions).
+	In javascript, most of data-types are objects (Even functions).
 	
 	# Points to remember:
 	1. In general, inheritance means when an object or class is based on another object or class.
